@@ -47,3 +47,4 @@ fail_percent = ((n - count) / n) * 100
 print(pass_percent)
 print(fail_percent)
 print(count)
+ 
